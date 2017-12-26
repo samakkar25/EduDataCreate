@@ -1,0 +1,17 @@
+learnings:
+
+
+Error 500: json not correct
+Error 400: Data already exist or missing some mandatory elements
+
+json tags are case sensitive
+we can skip optional values like lid (which are null)
+
+
+to view meta data 
+view users
+
+totalElements
+http://demo.educoresystems.com/api-v1.0/users?page=4
+
+JsonArray
